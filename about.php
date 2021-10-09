@@ -17,7 +17,7 @@
         <main class="flex-shrink-0">
             <!-- Navigation-->
             
-            <?php include('menu_bar.php') ?>
+        include 'menu_bar.php'
 
             <!-- Header-->
             <header class="py-5">
